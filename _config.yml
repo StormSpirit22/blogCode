@@ -81,3 +81,5 @@ deploy:
   type: git 
   repo: https://github.com/StormSpirit22/stormspirit22.github.io.git
   branch: master
+include:
+ - .nojekyll
